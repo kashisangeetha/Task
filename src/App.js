@@ -1,6 +1,6 @@
 import {Component} from 'react'
 import {v4 as uuid} from 'uuid'
-import Task from './components/Task'
+import Task from './Task'
 
 import {
   MainContainer,
@@ -18,7 +18,7 @@ import {
   TagsButton,
   TagListItem,
   NoTaskText,
-} from './style'
+} from './styled'
 
 import './App.css'
 

@@ -1,4 +1,4 @@
-import {TaskName, TagsCategory, ListItem} from './styleComponents'
+import {TaskName, TagsCategory, ListItem} from './style'
 
 const Task = props => {
   const {taskDetails} = props
